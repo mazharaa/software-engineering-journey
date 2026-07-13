@@ -2,7 +2,7 @@
 
 ## Current Focus
 
-REST APIs and databases
+CLI and Filesystem
 
 ## Topics
 
