@@ -80,33 +80,33 @@ Track roadmap.sh backend projects with recommended language choice between Go an
 
 Track your progress below.
 
-| Project                      | Repository                                           | Status      | Language Used | Notes |
-| ---------------------------- | ---------------------------------------------------- | ----------- | ------------- | ----- |
-| Task Tracker                 | [Link](https://github.com/mazharaa/task-tracker-cli) | In Progress | Python        |       |
-| GitHub User Activity         |                                                      | Planned     | Python        |       |
-| Expense Tracker              |                                                      | Planned     | Python        |       |
-| Number Guessing Game         |                                                      | Planned     | Python        |       |
-| Weather API                  |                                                      | Planned     | Python        |       |
-| Blogging Platform API        |                                                      | Planned     | Python        |       |
-| Todo List API                |                                                      | Planned     | Python        |       |
-| Expense Tracker API          |                                                      | Planned     | Python        |       |
-| Server Performance Stats     |                                                      | Planned     | Python        |       |
-| Log Archive Tool             |                                                      | Planned     | Python        |       |
-| Nginx Log Analyser           |                                                      | Planned     | Python        |       |
-| Unit Converter               |                                                      | Planned     | Python        |       |
-| Caching Proxy                |                                                      | Planned     | Go            |       |
-| Markdown Note-taking App     |                                                      | Planned     | Python        |       |
-| URL Shortening Service       |                                                      | Planned     | Go            |       |
-| Broadcast Server             |                                                      | Planned     | Go            |       |
-| Multi-Container Application  |                                                      | Planned     | Python        |       |
-| E-Commerce API               |                                                      | Planned     | Python        |       |
-| Linux Server Setup           |                                                      | Planned     | Bash          |       |
-| Workout Tracker              |                                                      | Planned     | Python        |       |
-| Image Processing Service     |                                                      | Planned     | Python        |       |
-| Movie Reservation System     |                                                      | Planned     | Go            |       |
-| Real-time Leaderboard        |                                                      | Planned     | Go            |       |
-| Database Backup Utility      |                                                      | Planned     | Go            |       |
-| Scalable E-Commerce Platform |                                                      | Planned     | Go            |       |
+| Project                      | Repository                                           | Status  | Language Used | Notes |
+| ---------------------------- | ---------------------------------------------------- | ------- | ------------- | ----- |
+| Task Tracker                 | [Link](https://github.com/mazharaa/task-tracker-cli) | Done    | Python        |       |
+| GitHub User Activity         |                                                      | Planned | Python        |       |
+| Expense Tracker              |                                                      | Planned | Python        |       |
+| Number Guessing Game         |                                                      | Planned | Python        |       |
+| Weather API                  |                                                      | Planned | Python        |       |
+| Blogging Platform API        |                                                      | Planned | Python        |       |
+| Todo List API                |                                                      | Planned | Python        |       |
+| Expense Tracker API          |                                                      | Planned | Python        |       |
+| Server Performance Stats     |                                                      | Planned | Python        |       |
+| Log Archive Tool             |                                                      | Planned | Python        |       |
+| Nginx Log Analyser           |                                                      | Planned | Python        |       |
+| Unit Converter               |                                                      | Planned | Python        |       |
+| Caching Proxy                |                                                      | Planned | Go            |       |
+| Markdown Note-taking App     |                                                      | Planned | Python        |       |
+| URL Shortening Service       |                                                      | Planned | Go            |       |
+| Broadcast Server             |                                                      | Planned | Go            |       |
+| Multi-Container Application  |                                                      | Planned | Python        |       |
+| E-Commerce API               |                                                      | Planned | Python        |       |
+| Linux Server Setup           |                                                      | Planned | Bash          |       |
+| Workout Tracker              |                                                      | Planned | Python        |       |
+| Image Processing Service     |                                                      | Planned | Python        |       |
+| Movie Reservation System     |                                                      | Planned | Go            |       |
+| Real-time Leaderboard        |                                                      | Planned | Go            |       |
+| Database Backup Utility      |                                                      | Planned | Go            |       |
+| Scalable E-Commerce Platform |                                                      | Planned | Go            |       |
 
 ---
 
