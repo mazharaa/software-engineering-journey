@@ -11,6 +11,7 @@ Use when the problem involves duplicate elment in array.
 ## Example Problems
 
 - Array that contains duplicate
+- Valid anagram
 
 ## Mistakes
 
